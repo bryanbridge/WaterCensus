@@ -1,6 +1,6 @@
 Graphing 2010 CA census data against water use for each county
 ==============================================================
-My first attempt with the R language
+My first foray into the R language
 ------------------------------------
 
 Notes:
